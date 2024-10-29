@@ -83,7 +83,7 @@ eslint-plugin-i18n is licensed under the [MIT License](http://www.opensource.org
 
 # Changelog
 
-## v2.4.0 - October 27, 2024
+## v2.4.0 - October 29, 2024
 
 Features
 - Added `excludeModuleImports` option to exclude imports from linting.
